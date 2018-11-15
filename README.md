@@ -14,5 +14,7 @@ Includes talks and associated code
 3. *PyData Pune November Meetup*
       
       Date: November 25, 2018
+      
       Venue: TBC
+      
       Topic: Recommender Systems
