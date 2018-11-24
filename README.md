@@ -15,6 +15,6 @@ Includes talks and associated code
       
       Date: November 25, 2018
       
-      Venue: TBC
+      Venue: RedHat Office, Hadapsar, Pune
       
-      Topic: Recommender Systems
+      Topic: Recommender Systems in the wild
