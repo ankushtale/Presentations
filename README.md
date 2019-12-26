@@ -18,3 +18,13 @@ Includes talks and associated code
       Venue: RedHat Office, Hadapsar, Pune
       
       Topic: Recommender Systems in the wild
+
+4. *Desert Data Science User Group*
+      
+      Date: December 18, 2019
+      
+      Venue: Neudesic Office, Tempe, Arizona
+      
+      Topic: Introduction to Recommender Systems
+
+      Lecture link: https://vimeo.com/380522369
