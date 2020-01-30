@@ -19,6 +19,8 @@ Includes talks and associated code
       
       Topic: Recommender Systems in the wild
 
+      Lecture Link: https://www.youtube.com/watch?v=AYQlREpZrrc&t=4s
+
 4. *Desert Data Science User Group*
       
       Date: December 18, 2019

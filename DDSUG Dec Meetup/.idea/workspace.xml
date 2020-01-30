@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="93f46dca-4ecb-46ef-bcbb-defb4050d49f" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/DDSUG Dec Meetup.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step1_probe_env.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step2_env_creation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step3_qlearning_formulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step4_episodes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step5_graphactions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step6_find_best_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step7_recreate_best_action.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mountain_car_q_learning_step8_epsilon_greedy_GLIE.py" afterDir="false" />
-    </list>
+    <list default="true" id="93f46dca-4ecb-46ef-bcbb-defb4050d49f" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +13,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step2_env_creation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="374">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -36,8 +22,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step3_qlearning_formulation.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+            <state relative-caret-position="663">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
             </state>
           </provider>
         </entry>
@@ -45,7 +31,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step5_graphactions.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="272">
+            <state relative-caret-position="731">
               <caret line="45" column="52" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="52" />
             </state>
           </provider>
@@ -54,8 +40,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step6_find_best_action.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+            <state relative-caret-position="816">
+              <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
             </state>
           </provider>
         </entry>
@@ -63,7 +49,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step7_recreate_best_action.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
+            <state relative-caret-position="374">
               <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
             </state>
           </provider>
@@ -72,8 +58,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step8_epsilon_greedy_GLIE.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="273">
-              <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+            <state relative-caret-position="833">
+              <caret line="51" selection-start-line="51" selection-end-line="51" />
             </state>
           </provider>
         </entry>
@@ -132,7 +118,7 @@
   <component name="PropertiesComponent">
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../video_compression_experiments" />
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
   <component name="RecentsManager">
@@ -281,9 +267,9 @@
     </configuration>
     <list>
       <item itemvalue="Python.mountain_car_q_learning" />
+      <item itemvalue="Python.mountain_car_q_learning_step3_qlearning_formulation" />
       <item itemvalue="Python.mountain_car_q_learning_step4_episodes" />
       <item itemvalue="Python.mountain_car_q_learning_step5_graphactions" />
-      <item itemvalue="Python.mountain_car_q_learning_step3_qlearning_formulation" />
       <item itemvalue="Python.mountain_car_q_learning_step7_recreate_best_action" />
       <item itemvalue="Python.mountain_car_q_learning_step8_epsilon_greedy_GLIE" />
     </list>
@@ -410,43 +396,43 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step2_env_creation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="374">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step3_qlearning_formulation.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="40" lean-forward="true" selection-start-line="40" selection-end-line="40" />
+        <state relative-caret-position="663">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step5_graphactions.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
+        <state relative-caret-position="731">
           <caret line="45" column="52" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="52" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step6_find_best_action.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="50" column="15" lean-forward="true" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
+        <state relative-caret-position="816">
+          <caret line="50" column="15" selection-start-line="50" selection-start-column="15" selection-end-line="50" selection-end-column="15" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step7_recreate_best_action.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
+        <state relative-caret-position="374">
           <caret line="23" column="21" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mountain_car_q_learning_step8_epsilon_greedy_GLIE.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="273">
-          <caret line="51" lean-forward="true" selection-start-line="51" selection-end-line="51" />
+        <state relative-caret-position="833">
+          <caret line="51" selection-start-line="51" selection-end-line="51" />
         </state>
       </provider>
     </entry>
